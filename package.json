@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "name": "weather-data-ops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
